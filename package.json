@@ -6,7 +6,7 @@
   "activationCommands": {
     "atom-workspace": "thesaurus:run"
   },
-  "repository": "https://github.com/atom/thesaurus",
+  "repository": "https://github.com/Antriel/atom-thesaurus",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
